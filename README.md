@@ -29,6 +29,6 @@
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/akshanshkhairwar](https://www.linkedin.com/in/akshanshkhairwar)
-- GitHub: [github.com/AkshanshKhairwar](https://github.com/AkshanshKhairwar)
+- GitHub: [github.com/Akshansh-29072005](https://github.com/Akshansh-29072005)
 
 > Slow and steady. Smart and consistent. Peace and progress.
