@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshansh-29072005/Akshansh-29072005/main/akshansh_banner.png" alt="Akshansh's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akshansh-29072005/Akshansh-29072005/main/akshansh_banner.png" alt="Akshansh's Banner" width="100%" height="200px" />
 </p>
  <h1>#👋 Hey, I'm Akshansh Khairwar</h1>
 
