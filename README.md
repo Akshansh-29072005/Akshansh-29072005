@@ -2,92 +2,159 @@
   <img src="https://raw.githubusercontent.com/Akshansh-29072005/Akshansh-29072005/main/akshansh_banner.png" alt="Akshansh's Banner" width="100%" />
 </p>
 
-# 👋 Hey, I'm Akshansh Khairwar
+<h1 align="center">🧠 Akshansh Khairwar</h1>
 
-🧑‍💻 B.Tech CSE  
-🦀 Learning **Rust** for systems • 🐹 **Go** for fast backends (practicing consistently) • Starting **C/C++** for systems & DSA  
-🤖 Comfortable with **Raspberry Pi**, **NVIDIA Jetson**, **ESP32/ESP8266**, and **Arduino**
-
----
-
-## 🚧 What I’m Doing Right Now
-- Building small but complete **CLI** and **backend** projects to improve structure, docs, and maintainability  
-- Practicing **Go** for high-performance backend services  
-- Deepening **Rust** for systems programming fundamentals  
-- Beginning **C/C++** for low-level concepts and **DSA**  
-- Connecting MCU/edge devices (ESP32/ESP8266/Arduino) with backends on **Pi/Jetson**
+<p align="center">
+  <b>Backend · Infrastructure · Cloud · Systems Programming · Robotics</b>
+</p>
 
 ---
 
-## 🧩 Projects & Repositories (with tech used)
+## 💡 About Me
 
-### 🛰️ Chhattisgarh Suraksha  
-**Repo:** <https://github.com/Akshansh-29072005/chhattisgarh-suraksha>  
-**What it is:** Work-in-progress full-stack safety & analytics system (auth, reports, dashboards).  
-**Tech used:**  
-- **Frontend:** React + Vite, Tailwind CSS  
-- **Backend:** Node.js + Express  
-- **Data:** PostgreSQL  
-- **Infra:** Docker, docker-compose (reverse proxy/NGINX config present in repo)  
-- **Ops:** `.env.example`, deployment notes  
-**What I’m learning here:** app structure, API design, containerization, env management, and deployment flow.
+I’m a Computer Science student who lives and breathes backend systems.  
+I enjoy building things that run fast, scale cleanly, and integrate seamlessly with hardware.  
+My focus is on understanding every layer — from how bits move in memory to how distributed services communicate across the cloud.
+
+I’m currently building, learning, and refining — one project at a time.
 
 ---
 
-### 🤖 Smart Navigation Transportation Robot  
-**Repo:** <https://github.com/Akshansh-29072005/Smart-Navigation-Transportation-Robot>  
-**What it is:** Robotics/IoT build that moves payloads, avoids obstacles, and supports web & voice control.  
-**Tech used:**  
-- **Hardware/MCU:** NodeMCU (ESP8266), motors/sensors, Arduino toolchain  
-- **Control & Voice:** Python scripts (voice commands), serial/Wi-Fi control  
-- **Frontend:** Simple web UI for control/status  
-**What I’m learning here:** hardware–software integration, control loops, serial/Wi-Fi comms, and project documentation.
+## ⚙️ Technical Focus
+
+### 🧩 Backend Engineering  
+Designing APIs and backend architectures using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> **Go**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="20"/> **Rust**, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python (FastAPI)**.  
+Practicing high-performance design, concurrency, and clean structuring.
+
+### 🧠 Systems Programming  
+Learning **Rust** for safety and performance.  
+Starting **C/C++** to understand compilers, memory, and real system behavior.  
+Exploring low-level development on **Raspberry Pi**, **ESP32/ESP8266**, and **NVIDIA Jetson**.
+
+### ☁️ Infrastructure & Cloud  
+Deploying containerized applications with **Docker** and **NGINX**.  
+Learning to automate environments, monitor services, and work with **AWS Free Tier**.  
+Interested in DevOps tooling, observability, and CI/CD pipelines.
+
+### 🤖 Robotics & Embedded Systems  
+Building hardware-integrated systems with **Arduino**, **NodeMCU**, and **ESP32**.  
+Bridging real-world sensors with software logic for smart and autonomous behavior.
 
 ---
 
-### ⚙️ rustlator  
-**Repo:** <https://github.com/Akshansh-29072005/rustlator>  
-**What it is:** A small Rust CLI calculator with two versions showing my progress from basic to idiomatic Rust.  
-**Tech used:** Rust (CLI, enums/match, error handling)  
-**What I’m learning here:** packaging, testing habits, CLI ergonomics, and idiomatic Rust patterns.
+## 🚀 Highlighted Projects
+
+### 🛰️ [Chhattisgarh Suraksha](https://github.com/Akshansh-29072005/chhattisgarh-suraksha)
+**Full-stack citizen safety & analytics system** — built to explore scalable web architecture.  
+🧩 *Tech:* Node.js · Express · PostgreSQL · React · Docker · NGINX  
+💡 *Focus:* Backend structure, API design, containerization, environment configuration, and deployment workflow.
 
 ---
 
-### 🐹 Learning Golang (solutions/go)  
-**Repo:** <https://github.com/Akshansh-29072005/Learning-Golang/tree/main/solutions/go>  
-**What it is:** Ongoing Go practice—small programs/solutions to build fluency.  
-**Tech used:** Go toolchain, standard library  
-**What I’m learning here:** Go syntax, testing mindset, and foundations for backend services.
+### 🤖 [Smart Navigation Transportation Robot](https://github.com/Akshansh-29072005/Smart-Navigation-Transportation-Robot)
+**IoT & Robotics project** — autonomous load-carrying robot with obstacle avoidance and voice/web control.  
+🧩 *Tech:* NodeMCU (ESP8266) · Arduino C · Python (voice interface) · WebSocket · Wi-Fi comms  
+💡 *Focus:* Hardware–software integration, real-time control, and embedded communication systems.
 
 ---
 
-### 📘 DSA Practice  
-**Repo:** <https://github.com/Akshansh-29072005/DSA-practice>  
-**What it is:** Personal archive of data-structures/algorithms exercises.  
-**Tech used:** (Mixed; problem-oriented)  
-**What I’m learning here:** problem solving, complexity basics, and groundwork for systems work.
+### ⚙️ [rustlator](https://github.com/Akshansh-29072005/rustlator)
+**Rust CLI calculator** — two versions showing my progress from basic to idiomatic Rust.  
+🧩 *Tech:* Rust · Enums · Match · Error handling  
+💡 *Focus:* Learning idiomatic patterns, modular CLI design, and future crate publishing.
 
 ---
 
-## 🧰 Tools & Technologies
-`Rust` • `Go` • `C/C++ (starting)` • `Python` • `Node.js (Express)` • `FastAPI (learning)` •  
-`PostgreSQL` • `Docker` • `NGINX` • `AWS Free Tier (learning)` •  
-`Raspberry Pi` • `NVIDIA Jetson` • `ESP32/ESP8266` • `Arduino`
+### 🐹 [Learning Golang](https://github.com/Akshansh-29072005/Learning-Golang/tree/main/solutions/go)
+**Go learning repo** — small, consistent practice to master Go fundamentals and concurrency.  
+🧩 *Tech:* Go · Standard library · Testing patterns  
+💡 *Focus:* Consistency, clarity, and backend-level fluency.
+
+---
+
+### 📘 [DSA Practice](https://github.com/Akshansh-29072005/DSA-practice)
+My log of algorithm and data-structure exercises.  
+💡 *Focus:* Efficiency, problem-solving speed, and algorithmic thinking — foundation for systems work.
+
+---
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <!-- Frameworks -->
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Actix-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+
+  <!-- Databases & Infra -->
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <!-- Hardware -->
+  <br/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32/ESP8266-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## 🌍 What I’m Exploring Next
+- Building microservices in Go and Rust  
+- Deploying full backends on AWS with CI/CD  
+- Low-level experiments on Pi and Jetson boards  
+- Writing clean, production-ready system utilities  
+- Contributing to open-source infrastructure and systems projects  
 
 ---
 
 ## 🎯 Goal
-Become a **backend + infra + cloud + systems** engineer.  
-I don’t know how long it will take—but I will get there. One focused improvement at a time.
+To become an engineer who deeply understands how software, hardware, and cloud infrastructure work together.  
+**Backend first, systems always in mind — and a strong bias for building things that actually run.**
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshansh-29072005&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshansh-29072005&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshansh-29072005&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## 📫 Connect
-- LinkedIn: <https://www.linkedin.com/in/akshanshkhairwar>
-- GitHub: <https://github.com/Akshansh-29072005>
-- Email: akshanshkhairwar@gmail.com
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshanshkhairwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Akshansh-29072005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:akshanshkhairwar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Backend in the mind. Systems in the heart. Infra in the hands. Robotics on the side. Consistency everywhere.</i>
+</p>
