@@ -53,8 +53,7 @@ Bridging real-world sensors with software logic for smart and autonomous behavio
 
 ### 🤖 [MIQO](https://github.com/Akshansh-29072005/MIQO)
 **IoT & Robotics project** — autonomous load-carrying robot with obstacle avoidance and voice/web control.  
-🧩 *Tech:* Jetson Nano · ESP32 · Arduino C · Python · Reinforcement · Computer Vision
-
+🧩 *Tech:* Jetson Nano · ESP32 · Arduino C · Python · Reinforcement · Computer Vision 
 💡 *Focus:* Hardware–software integration, real-time control, and embedded communication systems, path learning.
 
 ---
