@@ -51,10 +51,10 @@ Bridging real-world sensors with software logic for smart and autonomous behavio
 
 ---
 
-### 🤖 [Smart Navigation Transportation Robot](https://github.com/Akshansh-29072005/Smart-Navigation-Transportation-Robot)
+### 🤖 [MIQO](https://github.com/Akshansh-29072005/MIQO)
 **IoT & Robotics project** — autonomous load-carrying robot with obstacle avoidance and voice/web control.  
-🧩 *Tech:* NodeMCU (ESP8266) · Arduino C · Python (voice interface) · WebSocket · Wi-Fi comms  
-💡 *Focus:* Hardware–software integration, real-time control, and embedded communication systems.
+🧩 *Tech:* Jetson Nano · ESP32 · Arduino C · Python · Reinforcement · Computer Vision
+💡 *Focus:* Hardware–software integration, real-time control, and embedded communication systems, path learning.
 
 ---
 
@@ -65,16 +65,17 @@ Bridging real-world sensors with software logic for smart and autonomous behavio
 
 ---
 
+### 🤖 [Smart Navigation Transportation Robot](https://github.com/Akshansh-29072005/Smart-Navigation-Transportation-Robot)
+**IoT & Robotics project** — autonomous load-carrying robot with obstacle avoidance and voice/web control.  
+🧩 *Tech:* NodeMCU (ESP8266) · Arduino C · Python (voice interface) · WebSocket · Wi-Fi comms  
+💡 *Focus:* Hardware–software integration, real-time control, and embedded communication systems.
+
+---
+
 ### 🐹 [Learning Golang](https://github.com/Akshansh-29072005/Learning-Golang/tree/main/solutions/go)
 **Go learning repo** — small, consistent practice to master Go fundamentals and concurrency.  
 🧩 *Tech:* Go · Standard library · Testing patterns  
 💡 *Focus:* Consistency, clarity, and backend-level fluency.
-
----
-
-### 📘 [DSA Practice](https://github.com/Akshansh-29072005/DSA-practice)
-My log of algorithm and data-structure exercises.  
-💡 *Focus:* Efficiency, problem-solving speed, and algorithmic thinking — foundation for systems work.
 
 ---
 
@@ -92,8 +93,7 @@ My log of algorithm and data-structure exercises.
   <!-- Frameworks -->
   <br/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Actix-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-%23000000.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 
   <!-- Databases & Infra -->
