@@ -17,6 +17,7 @@ I enjoy building things that run fast, scale cleanly, and integrate seamlessly w
 My focus is on understanding every layer — from how bits move in memory to how distributed services communicate across the cloud.
 
 I’m currently building, learning, and refining — one project at a time.
+
 Portfolio - https://akshansh-portfolio.vercel.app/
 
 ---
