@@ -138,7 +138,7 @@ To become an engineer who deeply understands how software, hardware, and cloud i
 
 ![GitHub Stats](https://githubstats-nt2wp49jx-akshansh-khairwars-projects.vercel.app/api?username=Akshansh-29072005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://githubstats-nt2wp49jx-akshansh-khairwars-projects.vercel.app/api/top-langs/?username=Akshansh-29072005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://githubstats-nt2wp49jx-akshansh-khairwars-projects.vercel.app/api/top-langs?username=Akshansh-29072005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </p>
 
