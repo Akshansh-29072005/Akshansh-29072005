@@ -134,7 +134,7 @@ To become an engineer who deeply understands how software, hardware, and cloud i
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshansh-29072005&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
+![Top Languages](https://githubstats-nt2wp49jx-akshansh-khairwars-projects.vercel.app/api/top-langs?username=Akshansh-29072005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1801)
 
 ---
 
